@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/beige"
+    tools:context="liber.app.sudoku.HomeActivity">
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="80dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Infinity Sudoku"
+            android:textAlignment="center"
+            android:textSize="48sp"
+            android:fontFamily="@font/kefa_bold"/>
+
+        <TextView
+            android:id="@+id/txt_best"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Best in a row: 0"
+            android:textAlignment="center"
+            android:textSize="32sp"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/kefa_bold"/>
+
+        <Button
+            android:id="@+id/btn_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PLAY"
+            android:fontFamily="@font/kefa_bold"
+            android:paddingLeft="55dp"
+            android:paddingRight="55dp"
+            android:textSize="48sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            style="@style/Beige2"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:text="Select complexity"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:layout_marginTop="50dp"
+            android:fontFamily="@font/kefa_bold"/>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="35dp"
+            android:paddingBottom="5dp">
+
+            <Button
+                android:id="@+id/btn_complexity_easy"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:text="EASY"
+                android:fontFamily="@font/kefa_bold"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:textSize="24sp"
+                android:layout_margin="5dp"
+                android:layout_gravity="center_horizontal"
+                style="@style/Beige2"/>
+
+            <Button
+                android:id="@+id/btn_complexity_medium"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="MEDIUM"
+                android:fontFamily="@font/kefa_bold"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:textSize="24sp"
+                android:layout_margin="5dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                style="@style/Beige2" />
+
+            <Button
+                android:id="@+id/btn_complexity_hard"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:text="HARD"
+                android:fontFamily="@font/kefa_bold"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:textSize="24sp"
+                android:layout_margin="5dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                style="@style/Beige2"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp">
+            <Button
+                android:id="@+id/btn_easy"
+                android:layout_width="40dp"
+                android:layout_height="10dp"
+                android:background="@drawable/button_yellow"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/btn_medium"
+                android:layout_width="40dp"
+                android:layout_height="10dp"
+                android:background="@drawable/button_yellow"
+                android:layout_margin="5dp"/>
+
+            <Button
+                android:id="@+id/btn_hard"
+                android:layout_width="40dp"
+                android:layout_height="10dp"
+                android:background="@drawable/button_black"
+                android:layout_margin="5dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:alpha="0.5"
+        android:src="@drawable/logo_no_background" />
+</RelativeLayout>

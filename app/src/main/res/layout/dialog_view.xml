@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/linear_dialog"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:gravity="center_vertical"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:background="@android:color/transparent">
+
+        <Button
+            android:id="@+id/btn_complexity_easy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="EASY"
+            android:fontFamily="@font/kefa_bold"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:textSize="24sp"
+            android:layout_gravity="center_horizontal"
+            style="@style/Beige2"/>
+
+        <Button
+            android:id="@+id/btn_complexity_medium"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MEDIUM"
+            android:fontFamily="@font/kefa_bold"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:textSize="24sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            style="@style/Beige2" />
+
+        <Button
+            android:id="@+id/btn_complexity_hard"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HARD"
+            android:fontFamily="@font/kefa_bold"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:textSize="24sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            style="@style/Beige2"/>
+    </LinearLayout>
+</RelativeLayout>
