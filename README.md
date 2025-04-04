@@ -1,7 +1,10 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center"><picture><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width = 30px></picture><b></b>  Sudoku Infinity  </b></b></h1>
+<h3 align="center"><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="5%"></h3>
+<h1 align="center"><b></b>  Sudoku Infinity  </b></b></h1>
+
 <h3 align="center">Unlimited Sudoku Challenge</h3>
+
 <a>
 "Sudoku Infinity" is the ultimate Sudoku experience on your Android device. Get ready to dive into a world of limitless Sudoku puzzles and sharpen your logical thinking skills in an engaging and relaxing way.
 </a>
