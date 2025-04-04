@@ -4,7 +4,11 @@
 <h3 align="center">Unlimited Sudoku Challenge</h3>
 <a>
 "Sudoku Infinity" is the ultimate Sudoku experience on your Android device. Get ready to dive into a world of limitless Sudoku puzzles and sharpen your logical thinking skills in an engaging and relaxing way.
+</a>
 
+<h1 align="center"><img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_2433171477.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_3584264456.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_3651434127.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_925390357.jpeg" width="24%"></h1>
+
+<a>
 Key Features:
 
 🧩 Infinite Sudoku Puzzles: With our unique algorithm, you'll never run out of Sudoku puzzles to solve. Enjoy a continuous stream of challenges, from easy to expert, with no repetition.
@@ -22,4 +26,4 @@ Key Features:
 If you love Sudoku or want to start your Sudoku journey, "Sudoku Infinity" is the perfect choice. Download now and immerse yourself in a world of unlimited Sudoku challenges. Whether you're a casual player or a Sudoku enthusiast, you'll find endless entertainment and mental stimulation in this game. Join the Sudoku community and become a true Sudoku master!
 </a>
 
-<h1 align="center"><img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_2433171477.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_3584264456.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_3651434127.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_925390357.jpeg" width="24%"></h1>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
