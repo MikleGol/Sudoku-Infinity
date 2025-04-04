@@ -21,3 +21,5 @@ Key Features:
 
 If you love Sudoku or want to start your Sudoku journey, "Sudoku Infinity" is the perfect choice. Download now and immerse yourself in a world of unlimited Sudoku challenges. Whether you're a casual player or a Sudoku enthusiast, you'll find endless entertainment and mental stimulation in this game. Join the Sudoku community and become a true Sudoku master!
 </a>
+
+<h1 align="center"><img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_2433171477.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_3584264456.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_3651434127.jpeg" width="24%"> <img src="https://github.com/MikleGol/Sudoku-Infinity/blob/main/tg_image_925390357.jpeg" width="24%"></h1>
